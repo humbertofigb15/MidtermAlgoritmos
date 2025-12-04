@@ -2,11 +2,45 @@
 **Predicción de tendencia USD/MXN usando Dynamic Programming y un modelo Greedy**
 
 Autores:  
-- Humberto Figueroa Bouttier  
-- Rodrigo González de la Garza  
-- Diego Gaitán Sánchez  
-- Enrique Antonio Pires Rodríguez  
+1. Antonio Pires
 
+Diseño general del enfoque algorítmico (estructura DP + Greedy).
+
+Redacción de la sección Algorithm Design y explicación técnica del método.
+
+Apoyo en la comparación contra el baseline (Moving Average).
+
+Contribución en la redacción final y conclusiones.
+
+2. Humberto Figueroa
+
+Implementación principal en Python del sistema completo.
+
+Módulo de carga de datos desde Banxico y cálculo de retornos.
+
+Construcción del DP (prefix sums) y pruebas de rendimiento.
+
+Generación de resultados experimentales y gráficas del póster.
+
+3. Diego Gaitán
+
+Análisis del problema, contexto financiero y motivación del proyecto.
+
+Redacción de Project Overview, Problem Statement y Objectives.
+
+Apoyo en la interpretación de las métricas de predicción y desempeño.
+
+Revisión del póster y coherencia narrativa.
+
+4. Rodrigo González
+
+Evaluación de precisión, validación experimental y análisis de estabilidad.
+
+Elaboración de tablas de resultados y comparación DP vs. método Naive.
+
+Redacción de la sección Experimental Results y apoyo en Complexity Analysis.
+
+Organización visual del póster y curación del contenido final.
 ---
 
 ## 1. Descripción General del Problema
